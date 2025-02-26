@@ -1,4 +1,4 @@
-module github.com/lum0vi/grpc_api_golang_gkl
+module github.com/lum0vi/grpc-api
 
 go 1.24.0
 
